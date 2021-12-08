@@ -1,4 +1,5 @@
 # 👋 Hi
+<center>
 ![XheW](https://i.imgur.com/qHAcfhX.gif)
 ## Python, Java, JavaScript Developer
 ![XeW](https://i.imgur.com/qHAcfhX.gif)
