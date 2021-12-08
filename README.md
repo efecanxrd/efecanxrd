@@ -1,7 +1,8 @@
 # 👋 Hi
-<center>
 ![XheW](https://i.imgur.com/qHAcfhX.gif)
+<center>
 ## Python, Java, JavaScript Developer
+</center>
 ![XeW](https://i.imgur.com/qHAcfhX.gif)
 
 ![T](https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&layout=compact)
