@@ -1,6 +1,6 @@
 # 👋 Hi
 ![XheW](https://i.imgur.com/qHAcfhX.gif)
-## Python, Java, JavaScript Developer 
+## Python & Front-End Developer 
 ![XeW](https://i.imgur.com/qHAcfhX.gif)
 
 ![T](https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&layout=compact)
