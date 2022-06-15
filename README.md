@@ -1,6 +1,7 @@
 # 👋 Hi
 ![XheW](https://i.imgur.com/qHAcfhX.gif)
 ## Python & Front-End Developer 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![XeW](https://i.imgur.com/qHAcfhX.gif)
 
 ![T](https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&layout=compact)
