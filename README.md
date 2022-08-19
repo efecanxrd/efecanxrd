@@ -1,3 +1,11 @@
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=efecanxrd&theme=tokyonight" height = 190></p>
+
+&nbsp;
+
+### **<p align="center"> <img src='images/spongebob.gif' alt='Gif' height='36'> &nbsp; About &nbsp; <img src='images/spongebob.gif' alt='Gif' height='36'> </p>**
+
+<div align="center">
+
 # 👋 Hi
 ![XheW](https://i.imgur.com/qHAcfhX.gif)
 ## Full Stack Developer
