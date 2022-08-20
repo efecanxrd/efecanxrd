@@ -21,20 +21,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Keras">
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=efecanxrd&theme=tokyonight" height = 190></p>
-
-
-![XheW](https://i.imgur.com/qHAcfhX.gif)
-## Full Stack Developer
-![XeW](https://i.imgur.com/qHAcfhX.gif)
-
-![T](https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=efecanxrd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ### 🤝 Connect with me:
 <a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="50px"/></a>
 <a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="50px"/></a>
-### **<p align="center"> <img src='images/patrick.gif' alt='Gif' height='36'> &nbsp; Stats &nbsp; <img src='images/patrick.gif' alt='Gif' height='36'> </p>**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&theme=tokyonight&layout=compact&langs_count=8&hide=Objective-C,C,CMake,Makefile,HTML" height = 190></p>
-
-&nbsp;
