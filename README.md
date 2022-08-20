@@ -1,9 +1,16 @@
 <h2 align="center">Hi, I'm Efecan <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" 
      height="30" alt="IE"></h2>
      
-<img src="images/xe.gif" width="30">I’m currently working on Web Development & Machine Learning
-<p><img src="images/xe.gif" width="30"> I’m currently working on Web Development & Machine Learning</p>
-<p><img src="https://cdn3.emoji.gg/emojis/8468-partner.png" width="30"> I’m currently working on Web Development & Machine Learning</p>
+<img src="images/xe.gif" width="30">I’m currently learning Web Development
+
+<h3 align="left">I'm proficient in;</h3>
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">  
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">  
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">  
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+</p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=efecanxrd&theme=tokyonight" height = 190></p>
 
