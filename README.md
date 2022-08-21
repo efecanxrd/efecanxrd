@@ -34,3 +34,7 @@
 <a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="40px"/></a>
 <a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="40px"/></a>
 
+<h2 align="center"> Stats </h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&theme=tokyonight&layout=compact&langs_count=8&hide=Objective-C,C,CMake,Makefile,HTML" height = 190></p>
+
