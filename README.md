@@ -31,9 +31,7 @@
      
      
 <h2 align="center">🤝 Contact me<h2>
-<p align="center"><a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="40px"/></a></p>
-<p align="center"><a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="40px"/></a/p>
-
+[<img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"/>](https://www.instagram.com/efecanxrd/)
      
 <h2 align="center"> Stats </h2>
 
