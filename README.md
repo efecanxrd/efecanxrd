@@ -3,7 +3,7 @@
      
 <h4 align="left"><img align="center" src="images/xe.gif" width="30"> I’m currently learning Web Development</h4>
 
-<h2 align="center">I'm proficient in;</h2>
+<h2 align="center"><img align="center" src="images/2.png" width="30"> I'm proficient in; <img align="center" src="images/4.png" width="30"></h2>
 <h3 align="left"><img align="center" src="images/xee.gif" width="30"> Languages;<h3>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
