@@ -2,7 +2,7 @@
      height="30" alt="IE"></h3>
      
 <h4 align="left"><img align="center" src="images/xe.gif" width="30"> I’m currently learning Web Development</h4>
-<img src="https:/github.com/rasitesdmr/rasitesdmr/blob/main/images/rasit.gif">
+<img src="images/AngelicConcreteHypsilophodon-max-1mb.gif">
 
 <h2 align="center"><img align="center" src="images/2.png" width="30"> I'm proficient in; <img align="center" src="images/4.png" width="30"></h2>
 <h3 align="left"><img align="center" src="images/xee.gif" width="30"> Languages;<h3>
