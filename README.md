@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Efecan <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" 
-     height="30" alt="IE"></h2>
+<h3 align="left">Hi, I'm Efecan <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" 
+     height="30" alt="IE"></h3>
      
 <h4 align="left"><img align="center" src="images/xe.gif" width="30"> I’m currently learning Web Development</h4>
 
@@ -30,14 +30,14 @@
 
      
      
-<h2 align="center">🤝 Contact me<h2>
+<h2 align="center"><img align="center" src="images/2.png" width="30"> Contact <img align="center" src="images/4.png" width="30"><h2>
 
 [<img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"/>](https://www.instagram.com/efecanxrd/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@efecanxrd)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:efecan1guler@gmail.com)
 
      
-<h2 align="center"> Stats </h2>
+<h2 align="center"><img align="center" src="images/2.png" width="30"> Start <img align="center" src="images/4.png" width="30"></h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&theme=tokyonight&layout=compact&langs_count=8&hide=Objective-C,C,CMake,Makefile,HTML" height = 190></p>
 
