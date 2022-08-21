@@ -31,8 +31,8 @@
      
      
 <h2 align="center">🤝 Contact me<h2>
-<a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="40px"/></a>
-<a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="40px"/></a>
+<p align="center"><a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="40px"/></a></p>
+<p align="center"><a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="40px"/></a/p>
 
      
 <h2 align="center"> Stats </h2>
