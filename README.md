@@ -3,7 +3,7 @@
      
 <h4 align="left"><img align="center" src="images/xe.gif" width="30"> I’m currently learning Web Development</h4>
 
-<h2 align="left">I'm proficient in;</h2>
+<h2 align="center">I'm proficient in;</h2>
 <h3 align="left"><img align="center" src="images/xee.gif" width="30"> Languages;<h3>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -30,10 +30,11 @@
 
      
      
-<h2 align="left">🤝 Contact me<h2>
+<h2 align="center">🤝 Contact me<h2>
 <a href="https://medium.com/@efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="40px"/></a>
 <a href="https://instagram.com/efecanxrd"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="40px"/></a>
-<hr>
+
+     
 <h2 align="center"> Stats </h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&theme=tokyonight&layout=compact&langs_count=8&hide=Objective-C,C,CMake,Makefile,HTML" height = 190></p>
