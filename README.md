@@ -1,4 +1,4 @@
-# Who am I?:
+# Who am I?
 <img align="center" src="images/xe.gif" width="30"> Hi, I'm Efecan from Turkey.<br><img align="center" src="images/xe.gif" width="30"> I’m currently working on Machine Learning Projects. <br><img align="center" src="images/xe.gif" width="30"> I’m currently learning Java
 
 
