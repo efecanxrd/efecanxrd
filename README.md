@@ -68,7 +68,7 @@
 <a href="https://instagram.com/efecanxrd" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/efecanxrd" target="_blank">
+<a href="https://efecanxrd.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -78,9 +78,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&hide_border=true&theme=transparent&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&hide_border=true&theme=midnight-purple&layout=compact" align="center" /></div>  
 
 <br/>  
 
