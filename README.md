@@ -54,6 +54,8 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="images/opencv.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="50" /></a>  
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="50" /></a>  
+
 </div>
 </td></tr></table>  
 
