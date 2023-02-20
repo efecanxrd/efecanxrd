@@ -33,7 +33,7 @@
 ### Technologies  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="images/mysql.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="himages/nodejs.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="images/nodejs.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="images/linux.svg" alt="Linux" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="images/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="images/git.svg" alt="Git" height="50" /></a>  
@@ -52,9 +52,9 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="images/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="images/keras.svg" alt="pytorch" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="images/opencv.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/" alt="Keras" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="50" /></a>  
 </div>
-
 </td></tr></table>  
 
 <br/>  
