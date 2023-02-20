@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%; height: 15%" />
+<img src="images/gif.gif" align="center" style="width: 50%" />
 </div>  
   
 
