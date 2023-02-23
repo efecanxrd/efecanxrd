@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Machine Learning Projects
   
 
-- 🌱 I’m currently learning Java and Kubernetes.
+- 🌱 I’m currently learning Java
   
 <br/>  
 
