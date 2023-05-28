@@ -92,9 +92,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21aqgi6oi4yj2kbfvsukwfwia&cover_image=true&theme=default&show_offline=false&background_color=272626&bar_color=050505&bar_color_cover=false" /></div>  
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=efecanxrd&&style=flat-square" align="center" />
