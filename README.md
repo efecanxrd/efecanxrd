@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Efecan</div>  
+### <div>Hi, I'm Efecan</div>  
   
 
 - 🔭 I’m currently working on Machine Learning Projects
