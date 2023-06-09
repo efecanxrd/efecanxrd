@@ -1,5 +1,4 @@
 <div align="center">
-<img src="images/gif.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -21,9 +20,9 @@
 
 ### Languages  
 <div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="images/java.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/python.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="images/js.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="images/java.svg" alt="Java" height="20" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/python.svg" alt="Python" height="20" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="images/js.svg" alt="JavaScript" height="20" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -32,15 +31,15 @@
 
 ### Technologies  
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="images/mysql.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="images/nodejs.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="images/linux.svg" alt="Linux" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="images/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="images/git.svg" alt="Git" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="images/django.svg" alt="Django" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="images/html.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="images/css.svg" alt="CSS3" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="images/azure.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="images/mysql.svg" alt="MySQL" height="20" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="images/nodejs.svg" alt="Node.js" height="20" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="images/linux.svg" alt="Linux" height="20" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="images/firebase.png" alt="Firebase" height="20" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="images/git.svg" alt="Git" height="20" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="images/django.svg" alt="Django" height="20" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="images/html.svg" alt="HTML5" height="20" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="images/css.svg" alt="CSS3" height="20" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="images/azure.svg" alt="Azure" height="20" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,12 +48,12 @@
 
 ### ML/DL  
 <div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="images/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="images/keras.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="images/opencv.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="50" /></a>  
-  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="images/tensorflow.svg" alt="TensorFlow" height="20" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="images/keras.svg" alt="pytorch" height="20" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="images/opencv.svg" alt="OpenCV" height="20" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/keras.png" alt="Keras" height="20" /></a>  
+<a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="20" /></a>  
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="20" /></a>  
 
 </div>
 </td></tr></table>  
@@ -78,13 +77,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=efecanxrd&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanxrd&hide_border=true&theme=midnight-purple&layout=compact" align="center" /></div>  
-
-<br/>  
 
 
 ## 
