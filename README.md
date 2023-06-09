@@ -54,6 +54,7 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="images/keras.png" alt="Keras" height="20" /></a>  
 <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="20" /></a>  
   <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="20" /></a>  
+</td><td valign="top" width="33%">
 
 <a href="https://github.com/efecanxrd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,7 +67,6 @@
 </a>  
 </div>  
   
-</td><td valign="top" width="33%">
 
 <br/>  
 
