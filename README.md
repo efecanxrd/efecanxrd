@@ -56,6 +56,7 @@
   <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="20" /></a>  
 </td><td valign="top" width="33%">
 </div>
+  <br>
   <div>
 <a href="https://github.com/efecanxrd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
