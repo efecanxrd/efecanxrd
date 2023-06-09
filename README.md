@@ -55,14 +55,6 @@
 <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="images/1200px-SCIPY_2.svg.png" alt="Scipy" height="20" /></a>  
   <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="20" /></a>  
 
-</div>
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
 <a href="https://github.com/efecanxrd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -86,8 +78,8 @@
 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=efecanxrd&&style=flat-square" align="center" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=efecanxrd&&style=flat-square" align="left" />
 </div>  
   
 
