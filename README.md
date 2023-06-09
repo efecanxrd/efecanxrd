@@ -56,34 +56,7 @@
   <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="images/sci.png" alt="Scikit" height="20" /></a>  
 </td><td valign="top" width="33%">
 </div>
-  <br>
-  <div>
-<a href="https://github.com/efecanxrd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/efecanxrd" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://efecanxrd.medium.com" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-## 
-  
-
-<br/>  
-
-
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=efecanxrd&&style=flat-square" align="left" />
-</div>  
+ 
   
 
 <br/>  
